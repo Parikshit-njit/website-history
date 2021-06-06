@@ -3,7 +3,7 @@ History of Internet and How it works ?
 1. General Info<br>
       <ol start="1">
             <li>Parikshit Narang and Ivana Parrilla</li>
-      <ol>
+      </ol>
    <ol start="1">
          <li>The concept of the website: The website we are going to design is based on <i><b>History of The Internet and How it works ?</b></i> The content of the website is is taken from the outline prepared from the following: 
          <ul>
