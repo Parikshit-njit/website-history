@@ -20,7 +20,8 @@ History of Internet and How it works ?
       <li>The Internet - HTTP and HTML Part 5</li>
       <li>The Internet - Encryption Public keys Part 6</li>
    </ul>
-         </li>
+            The development of website will involve making use of HTML, CSS and Bootstrap. Also, GitHub will be employed for SCM (Source Code Management).
+            </li>
     </ol>
 </p>    
     
