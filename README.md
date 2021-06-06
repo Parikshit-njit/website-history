@@ -1,9 +1,12 @@
 # website-history
 History of Internet and How it works ?
 1. General Info<br>
-      1. Parikshit Narang and Ivana Parrilla<br>
-   1. The concept of website: The website we are going to design is based on <i><b>History of The Internet and How it works ?</b></i> The content of the website is is taken from the outline prepared from the following: 
-   <ul>
+      <ol>
+            <li>Parikshit Narang and Ivana Parrilla</li>
+      <ol>
+   <ol>
+         <li>The concept of website: The website we are going to design is based on <i><b>History of The Internet and How it works ?</b></i> The content of the website is is taken from the outline prepared from the following: 
+         <ul>
       <li>History Channel - The Invention of the Internet</li>
       <li>The True Story of the Internet - Browser Wars Part 1</li>
       <li>The True Story of the Internet - Internet Search Part 2</li>
@@ -18,4 +21,7 @@ History of Internet and How it works ?
       <li>The Internet - HTTP and HTML Part 5</li>
       <li>The Internet - Encryption Public keys Part 6</li>
    </ul>
+         </li>
+    </ol>
+   
       
