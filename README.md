@@ -30,7 +30,16 @@ History of Internet and How it works ?
       <b>2. Website General Info</b><br>
       <ol>
             <li><b>Description:</b> The meta description for the website will display <i>The one stop destination to explore the History of Internet and How it works? </i></li>
-            <li>Keywords: 
+            <li><b>Keywords:</b> The main keywords which will help match the website are as follows:<br>
+                  <ul>
+                        <li>Internet History</li>
+                        <li>JCR Lichlider</li>
+                        <li>Eisenhower</li>
+                        <li>ARPA<li>
+                        <li>Leonard Kleinrock</li>
+                        <li>Circuit Switching</li>
+                        <li>Paul Baran</li>
+                  </ul>      
       </ol>            
 </p> 
     
