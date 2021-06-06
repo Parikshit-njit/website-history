@@ -30,6 +30,7 @@ History of Internet and How it works ?
       <b>2. Website General Info</b><br>
       <ol>
             <li><b>Description:</b> The meta description for the website will display <i>The one stop destination to explore the History of Internet and How it works? </i></li>
+            <li>Keywords: 
       </ol>            
 </p> 
     
