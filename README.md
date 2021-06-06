@@ -1,7 +1,7 @@
 # website-history
 History of Internet and How it works ?
 1. General Info<br>
-      <ol>
+      <ol start='1'>
             <li>Parikshit Narang and Ivana Parrilla</li>
       <ol>
    <ol>
