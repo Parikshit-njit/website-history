@@ -6,7 +6,7 @@ History of Internet and How it works ?
             <li><b>Parikshit Narang and Ivana Parrilla</b></li>
       </ol>
       <br>
-   <ol>
+   &emsp;<ol>
          <li><b>The concept of the website:</b> The website we are going to design is based on <i><b>History of The Internet and How it works ?</b></i> The content of the website is is taken from the outline prepared from the following: 
          <ul>
       <li>History Channel - The Invention of the Internet</li>
