@@ -112,12 +112,18 @@ History of Internet and How it works ?
   <p>
       <h2><b><code>4. Page 1:</code></b></h2><br>
     <ol>
-         <li>Menu Link: The </li>
-         <li>Page Title</li>
-         <li>Description</li>
-         <li>Keywords</li>
-         <li>Page Layout</li>
-         <li>Page Content</li> 
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: The Invention of Internet</li>
+         <li>Description: The Invention of Internet</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: </li> 
     </ol>
  </p><hr>
     
