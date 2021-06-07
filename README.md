@@ -25,8 +25,8 @@ History of Internet and How it works ?
     </ol>
 </p>
 
-
-<p><hr>
+<hr>
+<p>
       <b><code>2. Website General Info</code></b><br>
       <ol>
             <li><b>Description:</b> The meta description for the website will display <i>The one stop destination to explore the History of Internet and How it works? </i></li>
@@ -87,13 +87,25 @@ History of Internet and How it works ?
             <li><b><code>Website Title:</code></b> History of the Internet</i></li><br>
             <li><b><code>Page Title:</code></b> History of the Internet</i></li><br>
             <span><code><b>1. Hero Text:</b></code> No one knows Internet better.</span><hr>
-            <li><b><code>Website Main Menu:</code></b> The website's landing page will have the menu comprising of navigation links to the following pages:<br>
-      <ul>
-            <li></li>
-      </ul>
 </li><br>
-      </ol>            
+      </ol> 
 </p> 
+
+ <p>
+            <b><code>3. Website Main Menu:</code></b> The website's landing page will have the menu comprising of navigation links to the following pages:<br>
+      <ul>
+            <li>The Invention of the Internet</li>
+            <li>Browsers War</li>
+            <li>Internet Search</li>
+            <li>Dot Com Bubble</li>
+            <li>Internet and People</li>
+            <li>Domain names and ICANN</li>
+            <li>IP Addresses, Packets and Routing</li>
+            <li>DNS</li>
+            <li>HTTP and HTTPS Protocol</li>
+            <li>W3C, HTML and CSS</li>
+      </ul>
+ </p>                 
     
    
       
