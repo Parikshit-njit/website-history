@@ -35,10 +35,22 @@ History of Internet and How it works ?
                         <li>Internet History</li>
                         <li>JCR Lichlider</li>
                         <li>Eisenhower</li>
-                        <li>ARPA<li>
+                        <li>ARPA</li>
                         <li>Leonard Kleinrock</li>
                         <li>Circuit Switching</li>
                         <li>Paul Baran</li>
+                        <li>Computer Communication</li>
+                        <li>MIT</li>
+                        <li>Shannon</li>
+                        <li>Bob Taylor</li>
+                        <li>Lincoln Laboratories</li>
+                        <li>Packet Switching</li>
+                        <li>UCLA</li>
+                        <li>Sigma 7</li>
+                        <li>SDS-940</li>
+                        <li>Stanford</li>
+                        <li>PDP</li>
+                        <li>Baltu
                   </ul>      
       </ol>            
 </p> 
