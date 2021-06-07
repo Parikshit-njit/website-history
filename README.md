@@ -1,7 +1,7 @@
 # website-history
 History of Internet and How it works ?
 <p>
-      <b><code>1. General Info</code></b><br>
+      <h2><b><code>1. General Info</code></b></h2><br>
       <ol>
             <li><b>Parikshit Narang and Ivana Parrilla</b></li>
          <li><b>The concept of the website:</b> The website we are going to design is based on <i><b>History of The Internet and How it works ?</b></i> The content of the website is is taken from the outline prepared from the following: 
@@ -27,7 +27,7 @@ History of Internet and How it works ?
 
 <hr>
 <p>
-      <b><code>2. Website General Info</code></b><br>
+      <h2><b><code>2. Website General Info</code></b></h2><br>
       <ol>
             <li><b>Description:</b> The meta description for the website will display <i>The one stop destination to explore the History of Internet and How it works? </i></li>
             <li><b>Keywords:</b> The main keywords which will help match the website are as follows:<br>
@@ -92,7 +92,7 @@ History of Internet and How it works ?
 </p> 
 
  <p>
-            <b><code>3. Website Main Menu:</code></b> The website's landing page will have the menu comprising of navigation links to the following pages:<br>
+            <h2><b><code>3. Website Main Menu:</code></b></h2> The website's landing page will have the menu comprising of navigation links to the following pages:<br>
       <ul>
             <li>The Invention of the Internet</li>
             <li>Browsers War</li>
