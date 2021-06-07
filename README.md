@@ -108,7 +108,7 @@ History of Internet and How it works ?
  </p><hr>    
  
   <p>
-      <b><code>4. Page 1:</code></b><br>
+      <h2><b><code>4. Page 1:</code></b></h2><br>
     <ol>
          <li>Menu Link</li>
          <li>Page Title</li>
