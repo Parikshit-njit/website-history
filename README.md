@@ -1,7 +1,7 @@
 # website-history
 History of Internet and How it works ?
 <p>
-      <b>1. General Info</b><br>
+      <b><code>1. General Info</code></b><br>
       <ol>
             <li><b>Parikshit Narang and Ivana Parrilla</b></li>
          <li><b>The concept of the website:</b> The website we are going to design is based on <i><b>History of The Internet and How it works ?</b></i> The content of the website is is taken from the outline prepared from the following: 
@@ -27,7 +27,7 @@ History of Internet and How it works ?
 
 
 <p>
-      <b>2. Website General Info</b><br>
+      <b><code>2. Website General Info</code></b><br>
       <ol>
             <li><b>Description:</b> The meta description for the website will display <i>The one stop destination to explore the History of Internet and How it works? </i></li>
             <li><b>Keywords:</b> The main keywords which will help match the website are as follows:<br>
@@ -50,8 +50,44 @@ History of Internet and How it works ?
                         <li>SDS-940</li>
                         <li>Stanford</li>
                         <li>PDP</li>
-                        <li>Baltu
-                  </ul>      
+                        <li>Baltupranik</li>
+                        <li>Newmann</li>
+                        <li>BBN</li>
+                        <li>Arpanet</li>
+                        <li>@</li>
+                        <li>Bob Khan</li>
+                        <li>TCP/IP</li>
+                        <li>worldwide web</li>
+                        <li>Tim Berners Lee</li>
+                        <li>Mosaic</li>
+                        <li>Jim Clark</li>
+                        <li>Silicon Graphics</li>
+                        <li>Mark Anderson</li>
+                        <li>Bill Gates</li>
+                        <li>Microsoft</li>
+                        <li>Harvard</li>
+                        <li>Thomas Reardon</li>
+                        <li>Steve Ballmer</li>
+                        <li>Netscape</li>
+                        <li>California</li>
+                        <li>Napster</li>
+                        <li>Browser Wars</li>
+                        <li>Gary Rebak</li>
+                        <li>AOL</li>
+                        <li>Netscape Antitrust Council</li>
+                        <li>Yahoo</li>
+                        <li>VC Arm</li>
+                        <li>Sequio Capital</li>
+                        <li>Michael Moritz</li>
+                        <li>Srinija Srinivasan</li>
+                        <li>Alta Vista</li>
+                        <li>Lycos</li>
+                        <li>Excite</li>
+                  </ul></li><br>
+            <li><b><code>Website Title:</code></b> History of the Internet</i></li><br>
+            <li><b><code>Page Title:</code></b> History of the Internet</i></li><br>
+            <span><code><b>1. Hero Text:</b></code> No one knows Internet better.</span>
+            <li><b><code>Website Main Menu:</code></b> History of the Internet</i></li><br>
       </ol>            
 </p> 
     
