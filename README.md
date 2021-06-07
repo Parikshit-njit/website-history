@@ -105,7 +105,19 @@ History of Internet and How it works ?
             <li>HTTP and HTTPS Protocol</li>
             <li>W3C, HTML and CSS</li>
       </ul>
- </p>                 
+ </p><hr>    
+ 
+  <p>
+      <b><code>3. Page 1:</code></b><br>
+    <ol>
+         <li>Menu Link</li>
+         <li>Page Title</li>
+         <li>Description</li>
+         <li>Keywords</li>
+         <li>Page Layout</li>
+          <li>Page Content</li> 
+    </ol>
+ </p><hr>
     
    
       
