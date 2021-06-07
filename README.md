@@ -108,14 +108,14 @@ History of Internet and How it works ?
  </p><hr>    
  
   <p>
-      <b><code>3. Page 1:</code></b><br>
+      <b><code>4. Page 1:</code></b><br>
     <ol>
          <li>Menu Link</li>
          <li>Page Title</li>
          <li>Description</li>
          <li>Keywords</li>
          <li>Page Layout</li>
-          <li>Page Content</li> 
+         <li>Page Content</li> 
     </ol>
  </p><hr>
     
