@@ -104,13 +104,15 @@ History of Internet and How it works ?
             <li>DNS</li>
             <li>HTTP and HTTPS Protocol</li>
             <li>W3C, HTML and CSS</li>
+            <li>About</li>
+            <li>Developing Team</li>
       </ul>
  </p><hr>    
  
   <p>
       <h2><b><code>4. Page 1:</code></b></h2><br>
     <ol>
-         <li>Menu Link</li>
+         <li>Menu Link: The </li>
          <li>Page Title</li>
          <li>Description</li>
          <li>Keywords</li>
