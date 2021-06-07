@@ -1,5 +1,5 @@
 # website-history
-History of Internet and How it works ?
+<p>History of Internet and How it works ?</p>
 <p>
       <h2><b><code>1. General Info</code></b></h2><br>
       <ol>
@@ -125,6 +125,11 @@ History of Internet and How it works ?
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: </li> 
     </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 1. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  </p><hr>
     
    
