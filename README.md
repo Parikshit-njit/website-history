@@ -123,7 +123,7 @@
          <li>Description: The Invention of Internet</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
-         <li>Page Content: </li> 
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
     </ol>
  </p><hr>
  
