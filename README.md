@@ -130,7 +130,41 @@
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
     <span>The sidebar will have access to all the sections of the Page 1. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
  </p><hr>
     
-   
+ 
       
