@@ -235,8 +235,8 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: Dot Com Bubble</li>
-         <li>Description: Dot Com Bubble</li>
+         <li>Page Title: Internet Search</li>
+         <li>Description: Internet Search</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
@@ -293,8 +293,8 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: Internet and People</li>
-         <li>Description: Internet and People</li>
+         <li>Page Title: Dot Com Bubble</li>
+         <li>Description: Dot Com Bubble</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
@@ -351,8 +351,407 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: Domain Names and ICANN</li>
-         <li>Description: Domain Names and ICANN</li>
+         <li>Page Title: Internet and People</li>
+         <li>Description: Internet and People</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 6:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: Domain names and ICANN</li>
+         <li>Description: Domain names and ICANN</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 5:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: IP Addresses, Packets and Routing</li>
+         <li>Description: IP Addresses, Packets and Routing</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 8:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: DNS</li>
+         <li>Description: DNS</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 9:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: HTTP and HTTPS Protocol</li>
+         <li>Description: HTTP and HTTPS Protocol</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 10:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: W3C, HTML and CSS</li>
+         <li>Description: W3C, HTML and CSS</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 11:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: About</li>
+         <li>Description: About</li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+    </ol>
+ </p><hr>
+ 
+  <p>
+      <h2><b><code>5. Sidebar Content</code></b></h2><br>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+ <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol>    
+ </p><hr>
+ 
+ 
+  <p>
+      <h2><b><code>6. Sidebar Image</code></b></h2><br>
+      <ol>
+      <li><b>Image Link: </b></li>
+      <li><b>Image Alt attribute: </b></li>
+      </ol>
+      <ol>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <ul>
+            <li></li>
+      </ul>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>7. Page Image</code></b></h2><br>
+      <ol>
+      <li><b>Page Image Link: </b></li>
+      </ol>
+      <ol>
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      </li>
+  </ol> 
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>4. Page 12:</code></b></h2><br>
+    <ol>
+         <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
+                     <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
+               </ul></li>
+         <li>Page Title: Developing Team</li>
+         <li>Description: Developing Team</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
