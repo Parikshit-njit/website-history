@@ -177,8 +177,8 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: The Invention of Internet</li>
-         <li>Description: The Invention of Internet</li>
+         <li>Page Title: Browsers War</li>
+         <li>Description: Browsers War</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
@@ -187,9 +187,9 @@
  
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
-    <span>The sidebar will have access to all the sections of the Page 1. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+    <span>The sidebar will have access to all the sections of the Page 2. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page2, chapter 2 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
@@ -205,7 +205,7 @@
       <li><b>Image Alt attribute: </b></li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page2, chapter 2 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
@@ -219,7 +219,7 @@
       <li><b>Page Image Link: </b></li>
       </ol>
       <ol>
-      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page2, chapter 2 will have index which is as follows:<br>      
       </li>
   </ol> 
  </p><hr>
@@ -235,8 +235,8 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: The Invention of Internet</li>
-         <li>Description: The Invention of Internet</li>
+         <li>Page Title: Dot Com Bubble</li>
+         <li>Description: Dot Com Bubble</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
@@ -245,9 +245,9 @@
  
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
-    <span>The sidebar will have access to all the sections of the Page 1. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+    <span>The sidebar will have access to all the sections of the Page 3. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 3, chapter 3 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
@@ -263,7 +263,7 @@
       <li><b>Image Alt attribute: </b></li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 3, chapter 3 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
@@ -293,8 +293,8 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: The Invention of Internet</li>
-         <li>Description: The Invention of Internet</li>
+         <li>Page Title: Internet and People</li>
+         <li>Description: Internet and People</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
@@ -303,9 +303,9 @@
  
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
-    <span>The sidebar will have access to all the sections of the Page 1. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+    <span>The sidebar will have access to all the sections of the Page 4. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 4, chapter 4 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
@@ -351,8 +351,8 @@
                      <li>About</li>
                      <li>Developing Team</li>
                </ul></li>
-         <li>Page Title: The Invention of Internet</li>
-         <li>Description: The Invention of Internet</li>
+         <li>Page Title: Domain Names and ICANN</li>
+         <li>Description: Domain Names and ICANN</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
          <li>Page Layout: F Pattern Layout</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
@@ -361,9 +361,9 @@
  
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
-    <span>The sidebar will have access to all the sections of the Page 1. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
@@ -379,7 +379,7 @@
       <li><b>Image Alt attribute: </b></li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
             <li></li>
       </ul>      
