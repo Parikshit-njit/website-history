@@ -403,7 +403,12 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li><Napster's Uprising</li>
+            <li>Napster's Uprising</li>
+            <li>Digg</li>
+            <li>YouTube</li>
+            <li>MySpace</li>
+            <li>Facebook</li>
+            <li>Wikipedia</li>
       </ul>      
       </li>
   </ol>    
@@ -419,7 +424,12 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Napster's Uprising</li>
+            <li>Digg</li>
+            <li>YouTube</li>
+            <li>MySpace</li>
+            <li>Facebook</li>
+            <li>Wikipedia</li>
       </ul>      
       </li>
   </ol> 
