@@ -269,7 +269,12 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 3, chapter 3 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Yahoo Uprising</li>
+            <li>Make way for advertisements</li>
+            <li>Google Uprising</li>
+            <li>Financing for Google</li>
+            <li>Google's Advertisement Conundrum</li>
+            <li>Google IPO</li>
       </ul>      
       </li>
   </ol>    
@@ -285,7 +290,12 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 3, chapter 3 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Yahoo Uprising</li>
+            <li>Make way for advertisements</li>
+            <li>Google Uprising</li>
+            <li>Financing for Google</li>
+            <li>Google's Advertisement Conundrum</li>
+            <li>Google IPO</li>
       </ul>      
       </li>
   </ol> 
@@ -327,7 +337,11 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 4, chapter 4 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Amazon’s Uprising</li>
+            <li>eBay's Uprising</li>
+            <li>Internet Reach</li>
+            <li>Wall Street's move to enter Dot Com Bubble</li>
+            <li>Dotcom Bubble effects</li>
       </ul>      
       </li>
   </ol>    
@@ -343,7 +357,11 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Amazon’s Uprising</li>
+            <li>eBay's Uprising</li>
+            <li>Internet Reach</li>
+            <li>Wall Street's move to enter Dot Com Bubble</li>
+            <li>Dotcom Bubble effects</li>
       </ul>      
       </li>
   </ol> 
@@ -385,7 +403,7 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li><Napster's Uprising</li>
       </ul>      
       </li>
   </ol>    
