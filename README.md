@@ -470,7 +470,9 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>ICANN</li>
+            <li>Domain names</li>
+            <li>Need of ICANN and Domain names</li>
       </ul>      
       </li>
   </ol>    
@@ -486,7 +488,9 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>ICANN</li>
+            <li>Domain names</li>
+            <li>Need of ICANN and Domain names</li>
       </ul>      
       </li>
   </ol> 
@@ -527,7 +531,9 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>IP Address</li>
+            <li>Packets</li>
+            <li>Routing</li>
       </ul>      
       </li>
   </ol>    
@@ -543,7 +549,9 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>IP Address</li>
+            <li>Packets</li>
+            <li>Routing</li>
       </ul>      
       </li>
   </ol> 
@@ -584,7 +592,8 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>DNS</li>
+            <li>Use of DNS</li>
       </ul>      
       </li>
   </ol>    
@@ -600,7 +609,8 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+             <li>DNS</li>
+            <li>Use of DNS</li>
       </ul>      
       </li>
   </ol> 
@@ -641,7 +651,8 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>HTTP Protocol</li>
+            <li>HTTPS Protocol</li>
       </ul>      
       </li>
   </ol>    
@@ -657,7 +668,8 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>HTTP Protocol</li>
+            <li>HTTPS Protocol</li>
       </ul>      
       </li>
   </ol> 
@@ -698,7 +710,9 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>W3C</li>
+            <li>HTML</li>
+            <li>CSS</li>
       </ul>      
       </li>
   </ol>    
@@ -714,7 +728,9 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>W3C</li>
+            <li>HTML</li>
+            <li>CSS</li>
       </ul>      
       </li>
   </ol> 
