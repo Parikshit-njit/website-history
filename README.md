@@ -133,7 +133,10 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Pioneer behind Internet</li>
+            <li>Baron's Idea of Routing</li>
+            <li>ARPANET</li>
+            <li>Internet's Fortune</li>
       </ul>      
       </li>
   </ol>    
@@ -149,7 +152,10 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Pioneer behind Internet</li>
+            <li>Baron's Idea of Routing</li>
+            <li>ARPANET</li>
+            <li>Internet's Fortune</li>
       </ul>      
       </li>
   </ol> 
@@ -191,7 +197,14 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page2, chapter 2 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Web's rise from security to global equity</li>
+            <li>Mosiac uprising</li>
+            <li>Microsoft's reign</li>
+            <li>Netscape's uprising</li>
+            <li>Microsoft and Netscape Clash</li>
+            <li>Netscape's IPO success</li>
+            <li>Microsoft's move</li>
+            <li>Lawsuit against Bill Gates</li>
       </ul>      
       </li>
   </ol>    
@@ -207,7 +220,14 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page2, chapter 2 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Web's rise from security to global equity</li>
+            <li>Mosiac uprising</li>
+            <li>Microsoft's reign</li>
+            <li>Netscape's uprising</li>
+            <li>Microsoft and Netscape Clash</li>
+            <li>Netscape's IPO success</li>
+            <li>Microsoft's move</li>
+            <li>Lawsuit against Bill Gates</li>
       </ul>      
       </li>
   </ol> 
