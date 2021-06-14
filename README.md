@@ -146,8 +146,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
@@ -214,8 +214,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page2, chapter 2 will have index which as follows:<br>
@@ -284,8 +284,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 3, chapter 3 will have index which as follows:<br>
@@ -351,8 +351,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>
@@ -418,8 +418,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -482,8 +482,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -543,8 +543,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -603,8 +603,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -662,8 +662,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -722,8 +722,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -781,8 +781,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
@@ -838,8 +838,8 @@
   <p>
       <h2><b><code>6. Sidebar Image</code></b></h2><br>
       <ol>
-      <li><b>Image Link: </b></li>
-      <li><b>Image Alt attribute: </b></li>
+      <li><b>Image Link: </b>https://images.unsplash.com/photo-1489436969537-cf0c1dc69cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=538&q=80</li>
+      <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
