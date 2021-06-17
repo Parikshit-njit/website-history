@@ -877,10 +877,16 @@
     
  
  ## Developers
- * 
+ *  
     <img src="https://github.com/jasneekchugh/IS601-WSD/blob/main/Untitled%20design.png" width="150">
    
-    Jasneek Singh Chugh<br />
-    Master's in Data Science, NJIT<br />
+    Jasneek Singh Chugh<br/>
+    Master's in Data Science, NJIT<br/>
     [LinkedIn](https://www.linkedin.com/in/jasneekchugh/)
-      
+   
+    <img src="https://github.com/jasneekchugh/website-history/blob/main/WhatsApp%20Image%202021-06-17%20at%204.22.41%20PM%20(1).jpeg" width="150">
+   
+    Parikshit Narang<br/>
+    Master's in Data Science, NJIT<br/>
+    [LinkedIn](https://www.linkedin.com/in/parikshit-narang/)
+   
