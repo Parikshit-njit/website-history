@@ -122,7 +122,7 @@
          <li>Page Title: The Invention of Internet</li>
          <li>Description: The Invention of Internet</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction.</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1xeEJNgu6yq8IFc10uoTQHsnuy1bgVL36/view?usp=sharing">Link</a></li> 
     </ol>
  </p><hr>
@@ -186,7 +186,7 @@
          <li>Page Title: Browsers War</li>
          <li>Description: Browsers War</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1RGRzOCxCgJ5kM9r0pJqIcDVAY3Mb1Ys8/view?usp=sharing">Link</a></li> 
     </ol>
  </p><hr>
@@ -258,7 +258,7 @@
          <li>Page Title: Internet Search</li>
          <li>Description: Internet Search</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/18sOBwi_zzI678_PV5RuMLyd6l1OcJqpr/view?usp=sharing">Link</a></li> 
     </ol>
  </p><hr>
@@ -326,7 +326,7 @@
          <li>Page Title: Dot Com Bubble</li>
          <li>Description: Dot Com Bubble</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1PQ3hrnjj0h28ophY3hSxlUk50orzWzCc/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
@@ -380,7 +380,7 @@
  
  
    <p>
-      <h2><b><code>4. Page 7:</code></b></h2><br>
+      <h2><b><code>4. Page 5:</code></b></h2><br>
     <ol>
          <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
                      <li>Home</li>
@@ -392,8 +392,8 @@
          <li>Page Title: Internet and People</li>
          <li>Description: Internet and People</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
-         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1K6faC6n0ALmrkzCoryM-X4soeJYvEZw2/view?usp=sharing">Link</a> </li> 
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1-HyAiwxfmr2xbdbbfVEEOKlaBQjhg8Uk/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
  
