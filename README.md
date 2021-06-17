@@ -185,7 +185,7 @@
                </ul></li>
          <li>Page Title: Browsers War</li>
          <li>Description: Browsers War</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>Mosaic</li><li>Jim Clark</li><li>Silicon Graphics</li><li>Paul Allen</li><li>Netscape</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1RGRzOCxCgJ5kM9r0pJqIcDVAY3Mb1Ys8/view?usp=sharing">Link</a></li> 
     </ol>
@@ -257,7 +257,7 @@
                </ul></li>
          <li>Page Title: Internet Search</li>
          <li>Description: Internet Search</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>Yahoo</li><li>VC Arm</li><li>Sequoia Capital</li><li>Google</li><li>Vinod Khosla</li><li>Michael Moritz</li><li>Nasdaq</li><li>Brin</li><li>Page</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/18sOBwi_zzI678_PV5RuMLyd6l1OcJqpr/view?usp=sharing">Link</a></li> 
     </ol>
@@ -325,7 +325,7 @@
                </ul></li>
          <li>Page Title: Dot Com Bubble</li>
          <li>Description: Dot Com Bubble</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>Amazon</li><li>Jeff Bezos</li><li>Omidyar</li><li>Blodgett</li><li>Moore</li><li>Robert Metcalf</li><li>Ethernet</li><li>Whitfield Diffie</li><li>Dot com Bubble</li><li>Tom Wolfe</li><li>Greenspan</li><li>Morse Code</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1PQ3hrnjj0h28ophY3hSxlUk50orzWzCc/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -391,7 +391,7 @@
                </ul></li>
          <li>Page Title: Internet and People</li>
          <li>Description: Internet and People</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>YouTube</li><li>Facebook</li><li>MySpace</li><li>Chad Hurley</li><li>Kevin Rose</li><li>Jay Adelson</li><li>Mark Zuckerberg</li><li>Social Graphs</li><li>Napster</li><li>Madison</li><li>Justin Frankel Cable Sasser</li><li>Steve Frank</li><li>Sean Fanning</li><li>King of Paterno</li><li>Metallica</li><li>Hillary Rosen</li><li>Phillippe Dalman</li><li>Fred Wilson</li><li>Rupert Murdoch</li><li>Wikipedia</li><li>Friendster</li><li>Craig Newmar</li><li>Digg</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1-HyAiwxfmr2xbdbbfVEEOKlaBQjhg8Uk/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -458,7 +458,7 @@
                </ul></li>
          <li>Page Title: Domain names and ICANN</li>
          <li>Description: Domain names and ICANN</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>ICANN</li><li>DNS</li><li>Domain Names</li><li>IP</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/13zWZFBJy_iIGTNkiKwKVZ8c8P8lkC934/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -466,9 +466,9 @@
  
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
-    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+    <span>The sidebar will have access to all the sections of the Page 6. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 6, chapter 6 will have index which as follows:<br>
       <ul>
             <li>ICANN</li>
             <li>Domain names</li>
@@ -519,7 +519,7 @@
                </ul></li>
          <li>Page Title: IP Addresses, Packets and Routing</li>
          <li>Description: IP Addresses, Packets and Routing</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>IP Address</li><li>Packets</li><li>Routing</li><li>Vinton Cerf</li><li>Bob Khan</li><li>TCP</li><li>Protocols</li><li>IPv4</li><li>IPv6</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1xeEJNgu6yq8IFc10uoTQHsnuy1bgVL36/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -580,7 +580,7 @@
                </ul></li>
          <li>Page Title: DNS</li>
          <li>Description: DNS</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>DNS</li><li>Spoofing</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1BrWtBEk7xHVrhJrflpzJdGMk56oF-S16/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -590,7 +590,7 @@
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
     <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 8, chapter 8 will have index which as follows:<br>
       <ul>
             <li>DNS</li>
             <li>Use of DNS</li>
@@ -607,7 +607,7 @@
       <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 8, chapter 8 will have index which as follows:<br>
       <ul>
              <li>DNS</li>
             <li>Use of DNS</li>
@@ -639,7 +639,7 @@
                </ul></li>
          <li>Page Title: HTTP and HTTPS Protocol</li>
          <li>Description: HTTP and HTTPS Protocol</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>HTTP</li><li>HTTPS</li><li>TLS</li><li>SSL</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/16gPkpi5VHYdM3GZTah5YnRq-NEhRUlhb/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -647,7 +647,7 @@
  
   <p>
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
-    <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
+    <span>The sidebar will have access to all the sections of the Page 9. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
@@ -666,7 +666,7 @@
       <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 9, chapter 9 will have index which as follows:<br>
       <ul>
             <li>HTTP Protocol</li>
             <li>HTTPS Protocol</li>
@@ -681,7 +681,7 @@
       <li><b>Page Image Link: </b></li>
       </ol>
       <ol>
-      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page1, chapter 1 will have index which as follows:<br>      
+      <li><b>Page Alt attribute:</b> The sidebar text will contain subparts of every chapter. For Page 9, chapter 9 will have index which as follows:<br>      
       </li>
   </ol> 
  </p><hr>
@@ -698,7 +698,7 @@
                </ul></li>
          <li>Page Title: W3C, HTML and CSS</li>
          <li>Description: W3C, HTML and CSS</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>CERN</li><li>MIT</li><li>W3C</li><li>HTML</li><li>CSS</li><li></li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1vYmvponUI0B6-UETqetYEscpjaiM4f-4/view?usp=sharing">Link</a> </li> 
     </ol>
@@ -708,7 +708,7 @@
       <h2><b><code>5. Sidebar Content</code></b></h2><br>
     <span>The sidebar will have access to all the sections of the Page 5. Each section in the webpage will be marked by particular headings. These headings will be aligned in vertical direction (top to bottom). Upon clicking on these headings, the page will scroll to that particular section on the webpage.</span>
  <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 10, chapter 10 will have index which is as follows:<br>
       <ul>
             <li>W3C</li>
             <li>HTML</li>
@@ -726,7 +726,7 @@
       <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 10, chapter 10 will have index which is as follows:<br>
       <ul>
             <li>W3C</li>
             <li>HTML</li>
@@ -759,9 +759,10 @@
                </ul></li>
          <li>Page Title: About</li>
          <li>Description: About</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>IS 601</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
-         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
+         <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team. This website is made for the IS 601- Web System Development course at New Jersey Institute of Technology. In this class i have learned how to develop a web-based system through this intensive hands-on project. This project has helped me in applying real-world problem-solving skills that meets the challange of developing a web-based information system. <br/>
+   I have also learned the basic pronciples of web-based applications, object oriented design patterns, MVC application design, working on Docker containerized images and much more.</li> 
     </ol>
  </p><hr>
  
@@ -771,7 +772,11 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+                      <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
       </ul>      
       </li>
   </ol>    
@@ -785,9 +790,13 @@
       <li><b>Image Alt attribute: </b>Sidebar Image</li>
       </ol>
       <ol>
-      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
+      <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 11, chapter 11 will have index which as follows:<br>
       <ul>
-            <li></li>
+                      <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
       </ul>      
       </li>
   </ol> 
@@ -828,7 +837,11 @@
  <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+                      <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
       </ul>      
       </li>
   </ol>    
@@ -844,7 +857,11 @@
       <ol>
       <li><b>Sidebar text:</b> The sidebar text will contain subparts of every chapter. For Page 5, chapter 5 will have index which as follows:<br>
       <ul>
-            <li></li>
+            <li>Home</li>
+                     <li>History</li>
+                     <li>Working</li>
+                     <li>About</li>
+                     <li>Developing Team</li>
       </ul>      
       </li>
   </ol> 
