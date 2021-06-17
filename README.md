@@ -459,7 +459,7 @@
          <li>Page Title: Domain names and ICANN</li>
          <li>Description: Domain names and ICANN</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/13zWZFBJy_iIGTNkiKwKVZ8c8P8lkC934/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
@@ -508,7 +508,7 @@
  </p><hr>
  
  <p>
-      <h2><b><code>4. Page 5:</code></b></h2><br>
+      <h2><b><code>4. Page 7:</code></b></h2><br>
     <ol>
          <li>Menu Link: The menu link on the page shows the following:<br>  <ul>
                      <li>Home</li>
@@ -520,7 +520,7 @@
          <li>Page Title: IP Addresses, Packets and Routing</li>
          <li>Description: IP Addresses, Packets and Routing</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1xeEJNgu6yq8IFc10uoTQHsnuy1bgVL36/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
@@ -581,7 +581,7 @@
          <li>Page Title: DNS</li>
          <li>Description: DNS</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1BrWtBEk7xHVrhJrflpzJdGMk56oF-S16/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
@@ -640,7 +640,7 @@
          <li>Page Title: HTTP and HTTPS Protocol</li>
          <li>Description: HTTP and HTTPS Protocol</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/16gPkpi5VHYdM3GZTah5YnRq-NEhRUlhb/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
@@ -699,7 +699,7 @@
          <li>Page Title: W3C, HTML and CSS</li>
          <li>Description: W3C, HTML and CSS</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1vYmvponUI0B6-UETqetYEscpjaiM4f-4/view?usp=sharing">Link</a> </li> 
     </ol>
  </p><hr>
@@ -760,7 +760,7 @@
          <li>Page Title: About</li>
          <li>Description: About</li>
          <li>Keywords: The main keywords which will help match the webpage are as follows:<br></li>
-         <li>Page Layout: F Pattern Layout</li>
+         <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team</li> 
     </ol>
  </p><hr>
