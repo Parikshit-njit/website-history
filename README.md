@@ -876,4 +876,11 @@
  </p><hr>
     
  
+ ## Developers
+ * 
+    <img src="https://github.com/jasneekchugh/IS601-WSD/blob/main/Untitled%20design.png" width="150">
+   
+    Jasneek Singh Chugh<br />
+    Master's in Data Science, NJIT<br />
+    [LinkedIn](https://www.linkedin.com/in/jasneekchugh/)
       
