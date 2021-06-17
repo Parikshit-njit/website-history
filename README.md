@@ -860,6 +860,16 @@
       </li>
   </ol> 
  </p><hr>
+ 
+ <p>
+      <h2><b><code>9. Footer Menu</code></b></h2><br>
+     
+ </p><hr>
+ 
+ <p>
+      <h2><b><code>10. About Page</code></b></h2><br>
+     
+ </p><hr>
     
  
       
