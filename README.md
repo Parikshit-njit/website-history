@@ -698,7 +698,7 @@
                </ul></li>
          <li>Page Title: W3C, HTML and CSS</li>
          <li>Description: W3C, HTML and CSS</li>
-         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>CERN</li><li>MIT</li><li>W3C</li><li>HTML</li><li>CSS</li><li></li></ul></li>
+         <li>Keywords: The main keywords which will help match the webpage are as follows:<br><ul><li>CERN</li><li>MIT</li><li>W3C</li><li>HTML</li><li>CSS</li></ul></li>
          <li>Page Layout: F Pattern Layout is used since this page is dense with content. The titles will be bold and there will be content mostly in the vertical direction</li>
          <li>Page Content: The page will have links to Pages: Home, Working, About, Developing Team <br> <a href="https://drive.google.com/file/d/1vYmvponUI0B6-UETqetYEscpjaiM4f-4/view?usp=sharing">Link</a> </li> 
     </ol>
